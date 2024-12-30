@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://47.109.16.236/"
+baseURL = "https://yaruyng.github.io/"
 # Title of your website (required).
 title = "Hugoplate"
 # Your theme name
