@@ -1,7 +1,7 @@
 ---
 title: yaruyng
 email: yaruyng@gmail.com
-image: "/images/avatar-yyr.jpg"
+image: "/images/avatar-yyr.png"
 description: this is meta description
 social:
   - name: github
