@@ -29,7 +29,7 @@ features:
       link: "#"
 
   - title: "My Technical Focus"
-    image: "/images/avatar-3.png""
+    image: "/images/avatar-3.png"
     content: "As an advocate for open source software, I believe in the power of community-driven development and knowledge sharing. You'll find me actively contributing to various open source projects and sharing what I learn along the way."
     bulletpoints:
       - "Backend Development: Java, Go"
