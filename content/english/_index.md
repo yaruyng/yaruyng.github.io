@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "What You'll Find Here"
-    image: "/images/avatar-2.png"
+    image: "/images/avatar-yyr-2.png"
     content: "Join me on this exciting journey as we explore the ever-evolving landscape of backend development. Whether you're a seasoned developer or just starting out, I hope you'll find valuable insights and practical knowledge here."
     bulletpoints:
       - "In-depth technical articles about Java and Go programming"
@@ -29,7 +29,7 @@ features:
       link: "#"
 
   - title: "My Technical Focus"
-    image: "/images/avatar-3.png"
+    image: "/images/avatar-yyr-3.png"
     content: "As an advocate for open source software, I believe in the power of community-driven development and knowledge sharing. You'll find me actively contributing to various open source projects and sharing what I learn along the way."
     bulletpoints:
       - "Backend Development: Java, Go"
