@@ -8,26 +8,109 @@ description: "This is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
+Last updated: 2025-01-07
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+## 1. Introduction
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+Welcome to yaruyng's website. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we handle your personal data when you visit our website and tell you about your privacy rights.
 
-#### Gathering of Personal Information
+## 2. Information We Collect
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+### 2.1 Information you provide to us:
+- Contact information when you reach out to us
+- Newsletter subscription information
 
-#### Protection of Personal- Information
+### 2.2 Information automatically collected:
+- IP address
+- Browser type and version
+- Operating system
+- Device information
+- Cookies and usage data
+- Log data
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+## 3. How We Use Your Information
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+We use your personal data for the following purposes:
+- To provide and maintain our service
+- To notify you about changes to our service
+- To provide customer support
+- To gather analytics to improve our service
+- To send you updates and marketing communications (with your consent)
+- To detect and prevent fraud
 
-#### Privacy Policy Changes
+## 4. Data Storage and Security
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+We implement appropriate technical and organizational measures to maintain the security of your personal information, including:
+- Encryption of data in transit and at rest
+- Regular security assessments
+- Access controls and authentication
+- Regular backups
+- Secure data centers
+
+## 5. Data Sharing and Disclosure
+
+We may share your information with:
+- Service providers who assist in our operations
+- Law enforcement when required by law
+- Third-party analytics services
+- We do not sell your personal data to third parties
+
+## 6. Your Rights
+
+You have the following rights:
+- Access your personal data
+- Correct inaccurate data
+- Request deletion of your data
+- Object to processing of your data
+- Data portability
+- Withdraw consent
+
+## 7. Cookies
+
+We use cookies to:
+- Maintain your session
+- Remember your preferences
+- Analyze website traffic
+- Improve user experience
+
+You can control cookies through your browser settings.
+
+## 8. International Data Transfers
+
+If we transfer your data internationally, we ensure appropriate safeguards are in place.
+
+## 9. Changes to This Policy
+
+We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy on this page.
+
+## 10. Contact Us
+
+If you have questions about this privacy policy, please contact us at:
+- Email: yaruyng@gmail.com
+
+## 11. Additional Rights for EU Residents
+
+If you are an EU resident, you have additional rights under GDPR:
+- Right to be informed
+- Right to restriction of processing
+- Right to object to processing
+- Right to data portability
+- Right to lodge a complaint with a supervisory authority
+
+## 12. California Privacy Rights
+
+California residents have additional rights under CCPA:
+- Right to know what personal information is collected
+- Right to know whether personal information is sold or disclosed
+- Right to say no to the sale of personal information
+- Right to access personal information
+- Right to equal service and price
+
+## 13. Data Retention
+
+We retain your personal data only for as long as necessary to fulfill the purposes we collected it for, including legal, accounting, or reporting requirements.
+
+## 14. Third-Party Links
+
+Our website may contain links to third-party websites. We are not responsible for their privacy practices.
+
