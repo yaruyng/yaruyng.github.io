@@ -6,7 +6,7 @@ date: 2025-01-05T05:00:00Z
 image: "/images/blog.png"
 categories: ["Technology", "Data"]
 author: "yaruyng"
-tags: ["technology", "tailwind"]
+tags: ["life", "developer"]
 draft: false
 ---
 

@@ -6,7 +6,7 @@ date: 2024-12-22T05:00:00Z
 image: "/images/blog.png"
 categories: ["Technology", "Data"]
 author: "yaruyng"
-tags: ["technology", "tailwind"]
+tags: ["Hugo", "Web"]
 draft: false
 ---
 How to Deploy a Static Website with Hugo and GitHub Pages
