@@ -4,7 +4,7 @@ meta_title: "Tomcat Architecture Series"
 description: "Understanding Tomcat: From Zero to Hero"
 date: 2025-01-17T00:00:00Z
 image: "/images/blog.png"
-categories: ["Technology"]
+categories: ["Technology", "Data"]
 author: "yaruyng"
 tags: ["technology", "tailwind"]
 draft: false
