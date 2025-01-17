@@ -1,6 +1,6 @@
 ---
 title: "Tomcat Architecture Series-1.Overview & Basic Concepts"
-meta_title: "Tomcat Architecture Series"
+meta_title: ""
 description: "Understanding Tomcat: From Zero to Hero"
 date: 2025-01-17T00:00:00Z
 image: "/images/blog.png"
