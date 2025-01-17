@@ -4,7 +4,7 @@ meta_title: ""
 description: "A comprehensive guide on how to create and deploy a static website using Hugo and GitHub Pages"
 date: 2024-12-22T05:00:00Z
 image: "/images/blog.png"
-categories: ["Technology", "Data"]
+categories: ["Hugo", "Web"]
 author: "yaruyng"
 tags: ["Hugo", "Web"]
 draft: false

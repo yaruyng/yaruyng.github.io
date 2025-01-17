@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2025-01-05T05:00:00Z
 image: "/images/blog.png"
-categories: ["Technology", "Data"]
+categories: ["life", "developer"]
 author: "yaruyng"
 tags: ["life", "developer"]
 draft: false

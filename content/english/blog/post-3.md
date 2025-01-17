@@ -4,7 +4,7 @@ meta_title: ""
 description: "Understanding Tomcat: From Zero to Hero"
 date: 2025-01-17T00:00:00Z
 image: "/images/blog.png"
-categories: ["Technology", "Data"]
+categories: ["Tomcat", "Java"]
 author: "yaruyng"
 tags: ["Tomcat", "Java"]
 draft: false
