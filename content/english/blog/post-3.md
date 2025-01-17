@@ -14,6 +14,30 @@ Deep Dive into Tomcat Architecture: A Comprehensive Guide
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Introduction
 Apache Tomcat, as one of the most popular Java web servers and servlet containers, powers millions of web applications worldwide.This article provides a comprehensive overview of Tomcat's architecture, helping developers understand its internal workings.
 
