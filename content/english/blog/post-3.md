@@ -6,15 +6,11 @@ date: 2025-01-17T00:00:00Z
 image: "/images/blog.png"
 categories: ["Technology"]
 author: "yaruyng"
-tags: ["technology"]
+tags: ["technology", "tailwind"]
 draft: false
 ---
 
 Deep Dive into Tomcat Architecture: A Comprehensive Guide
-
-
-
-
 
 
 
