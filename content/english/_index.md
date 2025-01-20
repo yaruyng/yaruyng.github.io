@@ -3,7 +3,7 @@
 banner:
   title: "Welcome to yaruyng's Tech Journey"
   content: "Hi there! I'm a passionate backend engineer specializing in Java and Go development. This blog serves as my digital garden where I share my experiences, insights, and discoveries in the world of software engineering."
-  image: "/images/banner.png"
+  image: "/images/avatar-yyr.png"
   button:
     enable: true
     label: "Github"
