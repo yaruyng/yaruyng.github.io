@@ -3,13 +3,13 @@ title: "Tomcat Architecture Series-2.Server and Service Components Explained"
 meta_title: ""
 description: "Understanding Tomcat: Server and Service Components"
 date: 2025-01-20T00:00:00Z
-image: "/images/blog.png"
+image: ""
 categories: ["Tomcat", "Java"]
 author: "yaruyng"
 tags: ["Tomcat", "Java"]
 draft: false
 ---
-Inside Tomcat: Server and Service Components Explained 📖
+Tomcat Architecture Series-2.Server and Service Components Explained
 
 ## Introduction
 
