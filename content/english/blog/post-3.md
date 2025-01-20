@@ -167,7 +167,7 @@ public interface Pipeline {
 
 ## Conclusion
 
-Understanding Tomcat's architecture is crucial fo Java developers working with web application.
+Understanding Tomcat's architecture is crucial for Java developers working with web application.
 The knowledge helps in:
 - Efficient application deployment
 - Performance optimization
