@@ -23,11 +23,6 @@ url = "/blog"
 
 [[main]]
 parent = "Pages"
-name = "Contact"
-url = "/contact"
-
-[[main]]
-parent = "Pages"
 name = "Authors"
 url = "/authors"
 
