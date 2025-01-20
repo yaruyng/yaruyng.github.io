@@ -14,7 +14,7 @@ Tomcat Architecture Series-2.Server and Service Components Explained
 
 
 
-## Introduction
+Introduction
 
 After understanding Tomcat's overall architecture, let's dive deep into two of its core component: Server and Service. These components from the backbone of Tomcat's architecture and play crucial roles in request processing.
 
