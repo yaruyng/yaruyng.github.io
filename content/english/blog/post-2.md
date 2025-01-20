@@ -11,9 +11,7 @@ draft: false
 ---
 
 From Doom Scrolling to Code Rolling: My Developer Revival Story 🚀
-
-
-
+<!--more-->
 ## The Dark Before Dawn 🌑
 Before 2024, I was your typical doom-scroller. You know the drill - endless Douyin (Chinese TikTok) sessions, minimal life goals, and a constant battle with depression. Work was just... work. Nothing more.
 
