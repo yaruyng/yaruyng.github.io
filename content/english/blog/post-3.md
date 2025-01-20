@@ -12,6 +12,10 @@ draft: false
 
 Tomcat Architecture Series-1.Overview & Basic Concepts
 
+
+
+
+
 ## Introduction
 
 Apache Tomcat, as one of the most popular Java web servers and servlet containers, powers millions of web applications worldwide.This article provides a comprehensive overview of Tomcat's architecture, helping developers understand its internal workings.
