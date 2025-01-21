@@ -11,7 +11,7 @@ draft: false
 ---
 How to Deploy a Static Website with Hugo and GitHub Pages
 
-Introduction
+## Introduction
 
 In this guide, I'll walk you through the process of creating and deploying a static website using Hugo and GitHub Pages. Hugo is a fast and modern static site generator written in Go, and GitHub Pages provides free hosting for static websites.
 
