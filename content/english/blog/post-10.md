@@ -2,7 +2,7 @@
 title: "Spring Architecture Series-2.Understanding AOP Framework Design and Implementation in Spring"
 meta_title: ""
 description: ""
-date: 2025-03-012T00:00:00Z
+date: 2025-03-12T00:00:00Z
 image: ""
 categories: ["Spring", "Java"]
 author: "yaruyng"
