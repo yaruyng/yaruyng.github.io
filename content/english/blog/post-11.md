@@ -237,4 +237,5 @@ Key takeaways:
 2. How different components work together
 3. The importance of clean architecture
 4. Extension points for customization
+5. 
 The miniSpring MVC implementation provides a solid foundation for understanding how Spring MVC works internally while maintaining simplicity and clarity.
