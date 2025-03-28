@@ -2,12 +2,12 @@
 title: "Spring Architecture Series-6.Implementing JDBC Module in Spring"
 meta_title: ""
 description: ""
-date: 2025-03-23T00:00:00Z
+date: 2025-03-27T00:00:00Z
 image: ""
 categories: ["Spring", "Java"]
 author: "yaruyng"
 tags: ["Spring", "Java"]
-draft: true
+draft: false
 ---
 Implementing JDBC Module in Spring
 <!--more-->
