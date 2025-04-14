@@ -1,3 +1,4 @@
+---
 title: "Retrieval Technique Series-1.Linear Structure Retrieval"
 meta_title: ""
 description: ""
@@ -10,6 +11,7 @@ draft: false
 ---
 Understanding the Essence of Retrieval Through Arrays and Linked Lists
 <!--more-->
+
 In today's information explosion era, retrieval technology has become an indispensable part of our daily lives and work.Whether searching for information through search engines or retrieving records from databases, the efficiency and accuracy of retrieving records directly impact our user experience.To deeply understand complex retrieval systems, we must start with the most fundamental data structures-arrays and linked lists, the two basic linear structures.
 
 ## The Essence of Retrieval
