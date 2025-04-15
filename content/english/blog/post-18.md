@@ -2,7 +2,7 @@
 title: "Retrieval Technique Series-1.Linear Structure Retrieval"
 meta_title: ""
 description: ""
-date: 2025-04-11T00:00:00Z
+date: 2025-04-13T00:00:00Z
 image: ""
 categories: ["datastructures", "retrieval"]
 author: "yaruyng"
