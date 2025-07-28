@@ -1,5 +1,5 @@
 ---
-title: "Retrieval Technique Series-5.A Discourse on Design in High-Performance Retrieval Systems"
+title: "Retrieval Technique Series-6.A Discourse on Design in High-Performance Retrieval Systems"
 meta_title: ""
 description: ""
 date: 2025-07-28T00:00:00Z
