@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Welcome to yaruyng's Tech Journey"
-  content: "Hi there! I'm a passionate backend engineer specializing in Java and Go development. This blog serves as my digital garden where I share my experiences, insights, and discoveries in the world of software engineering."
+  title: "Welcome to yaruyng's Tech & AI Journey"
+  content: "Hi, I'm Yaru — a backend engineer and AI application builder. I focus on building practical, small-but-useful products with Java, Go, and modern AI models. This blog is my digital garden for recording thinking, experiments, and growth."
   image: "/images/avatar-yyr.png"
   button:
     enable: true
@@ -13,15 +13,15 @@ banner:
 features:
   - title: "What You'll Find Here"
     image: "/images/avatar-yyr-2.png"
-    content: "Join me on this exciting journey as we explore the ever-evolving landscape of backend development. Whether you're a seasoned developer or just starting out, I hope you'll find valuable insights and practical knowledge here."
+    content: "This space documents my journey from traditional backend development toward AI-powered applications. I share what I learn, what I build, and how I think about technology in a fast-changing era."
     bulletpoints:
-      - "In-depth technical articles about Java and Go programming"
-      - "Best practices in backend development"
-      - "System design patterns and architecture discussions"
-      - "Open source contributions and project showcases"
-      - "Performance optimization techniques"
-      - "Cloud computing and microservices"
-      - "Development tools and productivity tips"
+      - "Backend engineering notes (Java / Go)"
+      - "Building AI-powered applications"
+      - "LLM usage patterns and prompt design"
+      - "System design and architecture thinking"
+      - "Personal project breakdowns"
+      - "Engineering efficiency & tooling"
+      - "Learning methods and self-improvement"
       
     button:
       enable: false
@@ -30,15 +30,16 @@ features:
 
   - title: "My Technical Focus"
     image: "/images/avatar-yyr-3.png"
-    content: "As an advocate for open source software, I believe in the power of community-driven development and knowledge sharing. You'll find me actively contributing to various open source projects and sharing what I learn along the way."
+    content: "I enjoy combining solid engineering fundamentals with emerging AI capabilities, aiming to turn ideas into usable products with minimal overhead."
     bulletpoints:
       - "Backend Development: Java, Go"
       - "Frameworks: Spring Boot, Gin"
       - "Database Systems: MySQL, PostgreSQL, Redis"
-      - "Cloud Platforms: Docker, Kubernetes"
-      - "Microservices Architecture"
-      - "API Design and Development"
-      - "Performance Optimization"
+      - "AI Models: OpenAI / Qwen / Claude"
+      - "Vector Databases & RAG"
+      - "API Design & Integration"
+      - "Docker & Basic Kubernetes"
+      - "AI Application Engineering"
     button:
       enable: false
       label: "Get Started Now"
