@@ -95,7 +95,7 @@ Handles moderately complex requests
 Used only for hard cases
 
 Architecture:
-
+```text
 User Request
     |
 Rule / Router
@@ -103,7 +103,7 @@ Rule / Router
 Simple → Cheap Model
 Medium → Mid Model
 Complex → Strong Model
-
+```
 
 This drastically reduces cost while maintaining quality.
 
@@ -195,7 +195,7 @@ Should have:
 Fail → Retry once → Log
 
 ## 10. Backend-Oriented Architecture
-
+```text
 Controller
 |
 Service
@@ -203,11 +203,11 @@ Service
 Prompt Builder
 |
 Model Router
-|          |
+ |       |
 Cheap  Strong
 |
 AI Provider
-
+```
 
 ## 11. When Should You Upgrade to Stronger Models?
 
